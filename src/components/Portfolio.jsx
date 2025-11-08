@@ -19,7 +19,7 @@ const portfolioData = [
   {
     title: 'Content Generation Platform',
     description: 'AI-powered blog and social media content generator with SEO optimization',
-    tech: ['Veo 3.1', 'FLOW', 'HeyGen', 'Nano Banana']
+    tech: ['Veo 3.1', 'FLOW', 'HeyGen', 'Nano Banana'],
     link:'https://drive.google.com/file/d/1xZ_kZkFOUX6UASrsrkixT-0RRrFLyatw/view?usp=sharing'
   },
   {
