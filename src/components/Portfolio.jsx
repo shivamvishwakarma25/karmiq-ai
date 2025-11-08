@@ -10,9 +10,9 @@ const portfolioData = [
     tech: ['LangChain', 'RAG', 'Groq API', 'Streamlit']
   },
   {
-    title: 'Educational AI Assistant',
-    description: 'Interactive AI tutor for students with voice capabilities and personalized learning',
-    tech: ['Ollama', 'React', 'Voice AI', 'FastAPI']
+    title: 'KarmiQ AI Assistant',
+    description: 'Interactive AI assistant for customers with voice capabilities and information of KarmiQ AI',
+    tech: ['Vapi', 'OpenAI', 'CRM', 'IVR']
   },
   {
     title: 'Content Generation Platform',
