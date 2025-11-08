@@ -28,7 +28,6 @@ const portfolioData = [
     tech: ['LLM', 'HuggingFace', 'LangChain', 'NLP'],
     link: 'https://blogify-ds3e3ok4b5dkr3bybt28o8.streamlit.app/'
   },  
-
 ];
 
 const Portfolio = () => {
@@ -68,9 +67,15 @@ const Portfolio = () => {
                   ))}
                 </div>
 
-                <button className="portfolio-link">
-                  View Details <FaExternalLinkAlt />
-                </button>
+                <a 
+                  href={project.link} 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                >
+                  <button className="portfolio-link">
+                    View Details <FaExternalLinkAlt />
+                  </button>
+                </a>
               </div>
             </motion.div>
           ))}
