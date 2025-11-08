@@ -82,7 +82,7 @@ const Contact = () => {
               <a href="https://www.linkedin.com/company/karmiq-ai/" target="_blank" rel="noopener noreferrer">
                 <FaLinkedin />
               </a>
-              <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.instagram.com/karmiq_ai?igsh=MXBjcmlyb251Yno0" target="_blank" rel="noopener noreferrer">
                 <FaInstagram />
               </a>
               <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
