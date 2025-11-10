@@ -27,7 +27,13 @@ const portfolioData = [
     description: 'An AI-powered blog writing assistant that generates engaging blog posts based on a title and keywords.',
     tech: ['LLM', 'HuggingFace', 'LangChain', 'NLP'],
     link: 'https://blogify-ds3e3ok4b5dkr3bybt28o8.streamlit.app/'
-  },  
+  },
+  {
+    title: 'KarmiQ - Multimodal AI Assistant',
+    description: 'An interactive AI assistant that processes and understands text, voice audio, and images, powered by Google's Gemini models.',
+    tech: ['Streamlit', 'Google Gemini', 'LangChain', 'SpeechRecognition', 'Python'],
+    link: 'https://multimodal-ai-app-zlujxykcrevscx46cuqdx4.streamlit.app/'
+  }
 ];
 
 const Portfolio = () => {
