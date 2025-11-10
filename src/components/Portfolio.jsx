@@ -30,7 +30,7 @@ const portfolioData = [
   },
   {
     title: 'KarmiQ - Multimodal AI Assistant',
-    description: 'An interactive AI assistant that processes and understands text, voice audio, and images, powered by Google's Gemini models.',
+    description: 'An interactive AI assistant that processes and understands text, voice audio, and images, powered by Googles Gemini models.',
     tech: ['Streamlit', 'Google Gemini', 'LangChain', 'SpeechRecognition', 'Python'],
     link: 'https://multimodal-ai-app-zlujxykcrevscx46cuqdx4.streamlit.app/'
   }
